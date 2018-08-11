@@ -1,9 +1,10 @@
 # NAME
 
 overload::x - x on refs
-[![Build Status](https://travis-ci.org/ThisUsedToBeAnEmail/overload-x)](https://travis-ci.org/ThisUsedToBeAnEmail/overload-x.png?branch=master)
-[![Coverage Status](https://coveralls.io/r/ThisUsedToBeAnEmail/overload-x?branch=master)](https://coveralls.io/repos/ThisUsedToBeAnEmail/overload-x/badge.png?branch=master)
-[![CPAN version](https://metacpan.org/pod/overload-x)](https://badge.fury.io/pl/overload-x.svg)
+========================
+[![Build Status](https://travis-ci.org/ThisUsedToBeAnEmail/overload-x.png?branch=master)](https://travis-ci.org/ThisUsedToBeAnEmail/overload-x)
+[![Coverage Status](https://coveralls.io/repos/ThisUsedToBeAnEmail/overload-x/badge.png?branch=master)](https://coveralls.io/r/ThisUsedToBeAnEmail/overload-x?branch=master)
+[![CPAN version](https://badge.fury.io/pl/overload-x.svg)](https://metacpan.org/pod/overload-x)
 
 # VERSION
 
