@@ -1,5 +1,5 @@
 package overload::x;
-use 5.006; use strict; use warnings; our $VERSION = '0.101';
+use 5.006; use strict; use warnings; our $VERSION = '0.102';
 use base 'Import::Export';
 use Clone qw(clone);
 
@@ -39,7 +39,7 @@ overload::x - x on refs
 
 =head1 VERSION
 
-Version 0.101
+Version 0.102
 
 =cut
 
