@@ -30,7 +30,12 @@ __END__
 
 =head1 NAME
 
-overload::x - x on refs 
+overload::x - x on refs
+
+=for html
+<a href="https://travis-ci.org/ThisUsedToBeAnEmail/overload-x"><img src="https://travis-ci.org/ThisUsedToBeAnEmail/overload-x.png?branch=master" alt="Build Status"></a>
+<a href="https://coveralls.io/r/ThisUsedToBeAnEmail/overload-x?branch=master"><img src="https://coveralls.io/repos/ThisUsedToBeAnEmail/overload-x/badge.png?branch=master" alt="Coverage Status"></a>
+<a href="https://metacpan.org/pod/overload-x"><img src="https://badge.fury.io/pl/overload-x.svg" alt="CPAN version"></a>
 
 =head1 VERSION
 
@@ -46,7 +51,7 @@ Version 0.101
 
 	my ($one, $two, $three, $four) = @{ [qw/1 2 3/] x n(4) }
 
-	#### 
+	####
 
 	my $arrayOfObjs = x(5, Obj->new)
 	my ($one, $two, $three, $four) = x(4, [qw/1 2 3/])
@@ -69,8 +74,7 @@ automatically be notified of progress on your bug as I make changes.
 
 You can find documentation for this module with the perldoc command.
 
-    perldoc overload::x
-
+	perldoc overload::x
 
 You can also look for information at:
 
