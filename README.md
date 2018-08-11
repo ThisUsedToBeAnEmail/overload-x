@@ -2,12 +2,10 @@
 
 overload::x - x on refs
 
-<div>
-
     <a href="https://travis-ci.org/ThisUsedToBeAnEmail/overload-x"><img src="https://travis-ci.org/ThisUsedToBeAnEmail/overload-x.png?branch=master" alt="Build Status"></a>
     <a href="https://coveralls.io/r/ThisUsedToBeAnEmail/overload-x?branch=master"><img src="https://coveralls.io/repos/ThisUsedToBeAnEmail/overload-x/badge.png?branch=master" alt="Coverage Status"></a>
     <a href="https://metacpan.org/pod/overload-x"><img src="https://badge.fury.io/pl/overload-x.svg" alt="CPAN version"></a>
-</div>
+
 
 # VERSION
 
