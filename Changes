@@ -1,0 +1,13 @@
+Revision history for overload-x
+
+0.01    Date/time
+        First version, released on an unsuspecting world.
+
+0.02    2018-08-11
+        look to wantarray when x is called directly
+
+0.03    2018-08-11
+        fix the makefile - my bad.
+
+0.101   2018-08-11
+        \shift is really broken AND has varying behaviour depending on which OS you're using apparently
