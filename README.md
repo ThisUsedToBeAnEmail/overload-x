@@ -1,13 +1,10 @@
 # NAME
 
 overload::x - x on refs
-
-<div>
-
-    <a href="https://travis-ci.org/ThisUsedToBeAnEmail/overload-x"><img src="https://travis-ci.org/ThisUsedToBeAnEmail/overload-x.png?branch=master" alt="Build Status"></a>
-    <a href="https://coveralls.io/r/ThisUsedToBeAnEmail/overload-x?branch=master"><img src="https://coveralls.io/repos/ThisUsedToBeAnEmail/overload-x/badge.png?branch=master" alt="Coverage Status"></a>
-    <a href="https://metacpan.org/pod/overload-x"><img src="https://badge.fury.io/pl/overload-x.svg" alt="CPAN version"></a>
-</div>
+========================
+[![Build Status](https://travis-ci.org/ThisUsedToBeAnEmail/overload-x.png?branch=master)](https://travis-ci.org/ThisUsedToBeAnEmail/overload-x)
+[![Coverage Status](https://coveralls.io/repos/ThisUsedToBeAnEmail/overload-x/badge.png?branch=master)](https://coveralls.io/r/ThisUsedToBeAnEmail/overload-x?branch=master)
+[![CPAN version](https://badge.fury.io/pl/overload-x.svg)](https://metacpan.org/pod/overload-x)
 
 # VERSION
 
@@ -104,4 +101,4 @@ PURPOSE, OR NON-INFRINGEMENT ARE DISCLAIMED TO THE EXTENT PERMITTED BY
 YOUR LOCAL LAW. UNLESS REQUIRED BY LAW, NO COPYRIGHT HOLDER OR
 CONTRIBUTOR WILL BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, OR
 CONSEQUENTIAL DAMAGES ARISING IN ANY WAY OUT OF THE USE OF THE PACKAGE,
-EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. 
