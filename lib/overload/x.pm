@@ -12,7 +12,8 @@ use overload
 	'x' => \&x;
 
 sub n {
-	bless \$_[0], __PACKAGE__;
+	my $n = shift;
+	bless \$n, __PACKAGE__;
 }
 
 sub x {
